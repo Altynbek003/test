@@ -1,6 +1,4 @@
-gggggggggggggg
-ffffffffffffff
-gggggggggggggg
-hhhhhhhhhhhhhh
-jjjjjjjjjjjjj
+lox
+nurka kot
+hello4
 hello3
