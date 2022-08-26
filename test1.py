@@ -1,6 +1,2 @@
-gggggggggggggg
-ffffffffffffff
-gggggggggggggg
-hhhhhhhhhhhhhh
-jjjjjjjjjjjjj
-hello2
+nurka kot
+hello4
